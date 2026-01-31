@@ -13,7 +13,8 @@ This project features a live-updating stock market analytics dashboard that trac
 ---
 
 ## Dashboard Preview
-![AAPL Stock Dashboard]("C:\Users\Divanshie\Downloads\github readmes\dashboard.jpg")
+
+![Stock Dashboard](https://github.com/user-attachments/assets/c9b31545-648f-4524-964b-23140bb614fc)
 Figure 1: Real-time visual interface featuring KPI panels, intraday price action, and technical charts.
 
 ---
@@ -79,3 +80,4 @@ This dashboard is designed for a variety of professional and educational scenari
 *Author:* [DivanshieSumitSetia]  
 
 *License:* MIT
+
